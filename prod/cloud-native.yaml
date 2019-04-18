@@ -15,4 +15,3 @@ spec:
             host: zipkin.jaeger.svc.cluster.local
             port:
               number: 9411
-
